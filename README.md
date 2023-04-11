@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RecyclableBag
-- 👀 interested in computer networking and the global cloud architecture.
+- 👀 interested in computer networking and the global cloud infrastructure.
 - 🌱 currently learning basic scripting and programming fundamentals. So far, using Powershell and Python to do useful things is as far as I have gotten.
 - 💞️ looking to collaborate on helping people new to computer science better themselves in the field. Would love to connect with anyone willing to pass on their lessons in scripting, programming, offensive and defensive security principles. 
 
