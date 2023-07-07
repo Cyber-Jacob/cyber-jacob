@@ -5,6 +5,7 @@
 
 
 <h1>Goals:</h1>
+
 - My primary goal is to become a better developer
 
 - My secondary goal is to become well-versed in DevOps
@@ -12,6 +13,7 @@
 - My third goal is to use my skills to pursue my own personal goal of being able to bend any computer to my will. This will require a lot of low-level programming knowledge and OS knowledge which I am still building.
 
 <h1>Projects:</h1>
+
 -Successfully staged and operated Multi Factor Authentication campaigns for businesses up to 500 employees, implementing Multi- and 2- factor authentication for end users in places where there was previously none.
 
 -I've released a .ps1 script which will audit MFA policies for youre M365 tenant and report on the status of whether or not MFA is enabled, enforced, etc. It will also output 
@@ -22,7 +24,8 @@ If you need help with deploying or auditing MFA for your small business' M365 or
 
 
 <h1>Interests</h1>
-- 👋 Hi, I’m @RecyclableBag
+
+👋 Hi, I’m @RecyclableBag
 
 - 👀 interested in computer networking and the global cloud infrastructure.
 
