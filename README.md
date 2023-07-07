@@ -8,16 +8,16 @@
 
 <h1>Projects:</h1>
 
--Successfully staged and operated Multi Factor Authentication campaigns for businesses up to 500 employees, implementing Multi- and 2- factor authentication for end users in places where there was previously none.
+- Successfully staged and operated Multi Factor Authentication campaigns for businesses up to 500 employees, implementing Multi- and 2- factor authentication for end users in places where there was previously none.
 
--Built and released a .ps1 script which will audit MFA policies for youre M365 tenant and report on the status of whether or not MFA is enabled, enforced, etc. It will also output 
+- Built and released a .ps1 script which will audit MFA policies for youre M365 tenant and report on the status of whether or not MFA is enabled, enforced, etc. It will also output 
 > If you need help with deploying or auditing MFA for your small business' M365 organization, check my Powershell Plethora :) no Azure P1/P2 license required
 
--Have implemented Physical Security Key security policies for small business's critical accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations.
+- Have implemented Physical Security Key security policies for small business's critical accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations.
 
--Built a system (using a 3rd Party Professional Services Automation tool) to ensure all windows devices entering the PSA system are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason for encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations.
+- Built a system (using a 3rd Party Professional Services Automation tool) to ensure all windows devices entering the PSA system are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason for encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations.
 
--Built a GPT-4 based python wrapper for interacting with the OpenAI Completions endpoint through a console (such as command, terminal, bash-- etc.)-- intended for use with model version GPT-4 or GPT-3.5-turbo.
+- Built a GPT-4 based python wrapper for interacting with the OpenAI Completions endpoint through a console (such as command, terminal, bash-- etc.)-- intended for use with model version GPT-4 or GPT-3.5-turbo.
 
 <h1>Experience:</h1>
 
