@@ -1,9 +1,3 @@
-<h1>Education:</h1>
-<h2>🔷Powershell (5 years)</h2>
-<h2>🐍Python (3 years)</h2>
-<h2>School: Collin College, B.A.T. Cybersecurity</h2>
-
-
 <h1>Goals:</h1>
 
 - My primary goal is to become a better developer
@@ -55,7 +49,15 @@ CTF-Based Exploit development (mostly with Python, for Non-Novel vulnerabilites.
 
 - 🌱 currently learning programming fundamentals. So far, using Powershell and Python to do useful things is as far as I have gotten.
 
-- 💞️ looking to collaborate on helping people new to computer science better themselves in the field. Would love to connect with anyone willing to pass on their lessons in scripting, programming, offensive and defensive security principles. 
+- 💞️ looking to collaborate on helping people new to computer science better themselves in the field. Would love to connect with anyone willing to pass on their lessons in scripting, programming, offensive and defensive security principles.
+
+
+
+<h1>Education:</h1>
+<h2>🔷Powershell (5 years)</h2>
+<h2>🐍Python (3 years)</h2>
+<h2>School: Collin College, B.A.T. Cybersecurity</h2>
+
 
 <!---
 RecyclableBag/RecyclableBag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
