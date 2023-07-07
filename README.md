@@ -21,6 +21,30 @@ If you need help with deploying or auditing MFA for your small business' M365 or
 
 -Have implemented Physical Security Key security policies for small business's critical accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations.
 
+-Built a system (using a 3rd Party Professional Services Automation tool) to ensure all windows devices entering the PSA system are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason for encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations.
+
+-Built a GPT-4 based python wrapper for interacting with the OpenAI Completions endpoint through a console (such as command, terminal, bash-- etc.)-- intended for use with model version GPT-4 or GPT-3.5-turbo.
+
+<h1>Experience:</h1>
+
+<h3>Recent Employment:</h3>
+
+- #️⃣❗System Administrator: Kehr Technologies (June 2022 - Present)
+
+- 💻🤓 Help Desk: Kehr Technologies (Jan 2022 - June 2022)
+
+- ⚡🏭 Welder: Watts Water Technology (March 2021 - Dec. 2021)
+
+
+<h3>Technologies:</h3>
+
+Azure AD - Conditional Access Policies and Multi-Factor Authentication Strength Policies
+Networking - Cloud-managed and On-Prem, Cisco, PFSense
+Powershell Automations
+Python Scripting
+Windows Administration
+Linux Administration
+CTF-Based Exploit development (mostly with Python, for Non-Novel vulnerabilites. I'm not quite there yet)
 
 
 <h1>Interests</h1>
