@@ -4,7 +4,7 @@
 
 - My secondary goal is to become well-versed in DevOps
 
-- My third goal is to use my skills to pursue my own personal goal of being able to bend any computer to my will. This will require a lot of low-level programming knowledge and OS knowledge which I am still building.
+- My third goal is to become adept with as many forms of technology as possible and use them in exciting, practical, and interesting ways.
 
 <h1>Projects:</h1>
 
