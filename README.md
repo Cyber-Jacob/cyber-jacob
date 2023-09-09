@@ -1,10 +1,10 @@
 <h1>Goals:</h1>
 
-- My primary goal is to become a better developer
+- become a better developer
 
-- My secondary goal is to become well-versed in DevOps
+- build helpful tools and contribute to the community
 
-- My third goal is to become adept with as many forms of technology as possible and use them in exciting, practical, and interesting ways.
+- learn to implement and deploy different technology in exciting, practical, and interesting ways.
 
 <h1>Projects:</h1>
 
