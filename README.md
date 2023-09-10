@@ -13,7 +13,7 @@
 - Built and released a .ps1 script that will audit MFA policies for your M365 tenant and report on the status of whether or not MFA is enabled, enforced, etc. It will also output 
 > If you need help with deploying or auditing MFA for your M365 organization, there may be some scripts that can help you in Powershell Plethora; no Azure P1/P2 license required
 
-- Have implemented Physical Security Key security policies for business-critical accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations.
+- Implemented Physical Security Key security policies for business-critical administrative accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations.
 
 - Built a system (using a 3rd Party Professional Services Automation tool) to ensure all Windows devices entering the PSA system are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason for encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations.
 
