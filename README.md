@@ -17,13 +17,15 @@
 
 - Built a system (using a 3rd Party Professional Services Automation tool) to ensure all Windows devices entering the PSA system are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason for encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations.
 
-- Built a GPT-4 based python wrapper for interacting with the OpenAI Completions endpoint through a console (such as command, terminal, bash-- etc.)-- intended for use with model version GPT-4 or GPT-3.5-turbo.
+- Built a GPT-4 based python wrapper for interacting with the OpenAI Completions endpoint through a console (such as command prompt, python terminal, bash-- etc.)-- intended for use with model version GPT-4 or GPT-3.5-turbo.
 
 <h1>Experience:</h1>
 
 <h3>Recent Employment:</h3>
 
-- #️⃣❗System Administrator: Kehr Technologies (June 2022 - Present)
+- 🛡️#️⃣❗ Security Engineer: Cardinal Health (Nov. 2023 - Present)
+
+- #️⃣❗System Administrator: Kehr Technologies (June 2022 - Oct 2023)
 
 - 💻🤓 Help Desk: Kehr Technologies (Jan 2022 - June 2022)
 
@@ -36,6 +38,10 @@ Azure AD - Conditional Access Policies and Multi-Factor Authentication Strength 
 
 Networking - Cloud-managed and On-Prem, Cisco, PFSense
 
+Email Security - Cloud - Based Email Security Gateways & On-Prem ESG's
+
+Email Security - Security Policies
+
 Powershell Automations
 
 Python Scripting
@@ -44,7 +50,7 @@ Windows Administration
 
 Linux Administration
 
-CTF-Based Exploit development (mostly with Python, for vulnerabilites which are not cutting edge or zero-day. I'm not quite there yet-- but i will be)
+CTF-Based Exploit development (mostly with Python, for vulnerabilites that are not cutting edge or zero-day. I'm not quite there yet-- but i will be)
 
 
 <h1>Interests</h1>
