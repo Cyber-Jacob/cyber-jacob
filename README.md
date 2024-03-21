@@ -10,7 +10,7 @@
 
 - Successfully staged and operated Multi-Factor Authentication campaigns for businesses up to 500 employees, implementing Multi- and 2- factor authentication for end users in places where there was previously none.
 
-- Built and released a .ps1 script that will audit MFA policies for your M365 tenant and report on the status of whether or not MFA is enabled, enforced, etc. It will also output 
+- Built and released a .ps1 script that will audit MFA policies for your M365 tenant and report on the status of whether or not MFA is enabled, enforced, etc. It will also output this information into a CSV which can be used in the Bulk Update section of M365 "per-user" MFA 
 > If you need help with deploying or auditing MFA for your M365 organization, there may be some scripts that can help you in Powershell Plethora; no Azure P1/P2 license required
 
 - Implemented Physical Security Key security policies for business-critical administrative accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations.
