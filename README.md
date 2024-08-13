@@ -25,9 +25,7 @@
 
 - 🛡️#️⃣❗ Security Engineer: Cardinal Health (Nov. 2023 - Present)
 
-- #️⃣❗System Administrator: Kehr Technologies (June 2022 - Oct 2023)
-
-- 💻🤓 Help Desk: Kehr Technologies (Jan 2022 - June 2022)
+- #️⃣❗System Administrator: Kehr Technologies (Jan 2022 - Oct 2023)
 
 - ⚡🏭 Welder: Watts Water Technology (March 2021 - Dec. 2021)
 
