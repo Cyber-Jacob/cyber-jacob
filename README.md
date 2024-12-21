@@ -8,14 +8,14 @@
 
 <h1>Projects:</h1>
 
-- Successfully staged and operated Multi-Factor Authentication campaigns for businesses up to 500 employees, implementing Multi- and 2- factor authentication for end users in places where there was previously none.
+- Successfully staged and operated Multi-Factor Authentication campaigns for multiple orgs up to 500 userd at a time, implementing Multi-factor Authentication for end users in environments where there was previously none.
 
 - Built and released a .ps1 script that will audit MFA policies for your M365 tenant and report on the status of whether or not MFA is enabled, enforced, etc. It will also output this information into a CSV which can be used in the Bulk Update section of M365 "per-user" MFA 
 > If you need help with deploying or auditing MFA for your M365 organization, there may be some scripts that can help you in Powershell Plethora; no Azure P1/P2 license required
 
 - Implemented Physical Security Key security policies for business-critical administrative accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations.
 
-- Built a business system using powershell automation to ensure all Windows devices entering the environment are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason to include encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations.
+- Built an automation using powershell to ensure all Windows devices entering the environment are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason to include encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations.
 
 - Built an OpenAI API python wrapper for interacting with the OpenAI Completions and Assistants endpoints through a chat interface in-console (such as command prompt, python terminal, bash-- etc.)-- intended for use with several GPT-x models via the OpenAI API.
 
