@@ -62,7 +62,7 @@ CTF-Based Exploit development (mostly with Python, for vulnerabilites that are n
 
 - 👀 interested in computer networking and the global cloud infrastructure.
 
-- 🌱 currently learning programming fundamentals. So far, using Powershell and Python to do useful things is as far as I have gotten.
+- 🌱 currently using Powershell and Python to do useful things.
 
 - 💞️ looking to collaborate on helping people new to computer science better themselves in the field. Would love to connect with anyone willing to pass on their lessons in scripting, programming, offensive and defensive security principles.
 
