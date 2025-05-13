@@ -53,7 +53,7 @@ Windows Administration
 
 Linux Administration
 
-CTF-Based Exploit development (mostly with Python, for vulnerabilites that are not cutting edge or zero-day. I'm not quite there yet-- but i will be)
+CTF-Based Exploit development (mostly with Python and Powershell)
 
 
 <h1>Interests</h1>
