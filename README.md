@@ -8,16 +8,21 @@
 
 <h1>Projects:</h1>
 
-- Successfully staged and operated Multi-Factor Authentication campaigns for multiple orgs up to 500 userd at a time, implementing Multi-factor Authentication for end users in environments where there was previously none.
+- Built and maintain a powershell module avaialble via the Powershell Gallery known as Get-DMARCRecord. It does exactly what it sounds like. Open-sourced here, on my github. 🕵️📖🛡️
 
-- Built and released a .ps1 script that will audit MFA policies for your M365 tenant and report on the status of whether or not MFA is enabled, enforced, etc. It will also output this information into a CSV which can be used in the Bulk Update section of M365 "per-user" MFA 
-> If you need help with deploying or auditing MFA for your M365 organization, there may be some scripts that can help you in Powershell Plethora; no Azure P1/P2 license required
+- Designed various Python integrations for use with Palo Alto XSOAR to interface with the Cisco Ironport API version 15.6 and higher. These automations have enabled security analysts at my organization to move react faster, and be proactive about our email security posture. 🐍
 
-- Implemented Physical Security Key security policies for business-critical administrative accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations.
+- Implemented SSO for all the things at each org I've stopped at. Using both Okta and Entra Id/AzureAD as identity providers, have engineered all role levels across infosec and IT organizations based on principal of least privilege with SAML assertions from Okta/Entra ID. 📖🪪
 
-- Built an automation using powershell to ensure all Windows devices entering the environment are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason to include encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations.
+- Implemented Physical Security Key security policies for business-critical administrative accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations. 🔐
 
-- Built an OpenAI API python wrapper for interacting with the OpenAI Completions and Assistants endpoints through a chat interface in-console (such as command prompt, python terminal, bash-- etc.)-- intended for use with several GPT-x models via the OpenAI API.
+- Built an automation using powershell to ensure all Windows devices entering the environment are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason to include encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations. 🛡️
+
+- Built an OpenAI API python wrapper for interacting with the OpenAI Completions and Assistants endpoints through a chat interface in-console (such as command prompt, python terminal, bash-- etc.)-- intended for use with several GPT-x models via the OpenAI API. 🤖
+
+- Successfully staged and operated Multi-Factor Authentication campaigns for multiple orgs up to 50,000 users at a time, implementing Multi-factor Authentication for end users in environments where there was previously none. 🛅
+
+- Fun powershell module to get the current locale's weather using OpenWeatherMap API and public WAN IP address. ⛅
 
 <h1>Experience:</h1>
 
