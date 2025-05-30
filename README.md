@@ -12,7 +12,7 @@
 
 - Designed various Python integrations for use with Palo Alto XSOAR to interface with the Cisco Ironport API version 15.6 and higher. These automations have enabled security analysts at my organization to move react faster, and be proactive about our email security posture. 🐍
 
-- Implemented SSO for all the things at each org I've stopped at. Using both Okta and Entra Id/AzureAD as identity providers, have engineered all role levels across infosec and IT organizations based on principal of least privilege with SAML assertions from Okta/Entra ID. 📖🪪
+- Implemented SSO for all the things. Using both Okta and Entra Id/AzureAD as identity providers, have engineered all role levels across infosec and IT organizations based on principal of least privilege with SAML assertions from Okta/Entra ID. 📖🪪
 
 - Implemented Physical Security Key security policies for business-critical administrative accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations. 🔐
 
