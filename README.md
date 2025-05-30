@@ -10,7 +10,7 @@
 
 - Built and maintain a powershell module avaialble via the Powershell Gallery known as Get-DMARCRecord. It does exactly what it sounds like. Open-sourced here, on my github. 🕵️📖🛡️
 
-- Designed various Python integrations for use with Palo Alto XSOAR to interface with the Cisco Ironport API version 15.6 and higher. These automations have enabled security analysts at my organization to move react faster, and be proactive about our email security posture. 🐍
+- Designed various Python integrations for use with Palo Alto XSOAR to interface with the Cisco Ironport API version 15.6 and higher. These automations have enabled security analysts at my organization to react faster to incidents, and be proactive about our email security posture. 🐍
 
 - Implemented SSO for all the things. Using both Okta and Entra Id/AzureAD as identity providers, have engineered all role levels across infosec and IT organizations based on principal of least privilege with SAML assertions from Okta/Entra ID. 📖🪪
 
