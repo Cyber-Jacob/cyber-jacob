@@ -28,11 +28,11 @@
 
 <h3>Recent Employment:</h3>
 
-- 🛡️#️⃣❗ Security Engineer: Cardinal Health (Nov. 2023 - Present)
+- 🛡️#️⃣❗ Security Engineer (Nov. 2023 - Present)
 
-- #️⃣❗System Administrator: Kehr Technologies (Jan 2022 - Oct 2023)
+- #️⃣❗System Administrator (Jan 2022 - Oct 2023)
 
-- ⚡🏭 Welder: Watts Water Technology (March 2021 - Dec. 2021)
+- ⚡🏭 Welder (March 2021 - Dec. 2021)
 
 
 <h3>Technologies:</h3>
