@@ -8,7 +8,7 @@
 
 <h1>Projects:</h1>
 
-- Built and maintain a powershell module avaialble via the Powershell Gallery known as Get-DMARCRecord. It does exactly what it sounds like. Open-sourced here, on my github. 🕵️📖🛡️
+- Built and maintain a couple powershell module available via the Powershell Gallery known as Get-DMARCRecord and Powershell.Base64. They do exactly what what they sound like. Open-sourced here, on my github. 🕵️📖🛡️
 
 - Designed various Python integrations for use with Palo Alto XSOAR to interface with the Cisco Ironport API version 15.6 and higher. These automations have enabled security analysts at my organization to react faster to incidents, and be proactive about our email security posture. 🐍
 
@@ -16,9 +16,9 @@
 
 - Implemented Physical Security Key security policies for business-critical administrative accounts and admin roles, ensuring high levels of authentication strength for admin-level accounts at several organizations. 🔐
 
-- Built an automation using powershell to ensure all Windows devices entering the environment are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason to include encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations. 🛡️
+- Built automations using powershell to ensure all Windows devices entering the environment are Bitlocker encrypted, logging all Bitlocker recovery keys for offsite storage and logging reason to include encryption failure on any device unable to start Bitlocker encryption. Useful for networks/endpoints with compliance obligations. 🛡️
 
-- Built an OpenAI API python wrapper for interacting with the OpenAI Completions and Assistants endpoints through a chat interface in-console (such as command prompt, python terminal, bash-- etc.)-- intended for use with several GPT-x models via the OpenAI API. 🤖
+- Built various OpenAI API wrappers for interacting with the OpenAI Completions, Responses, and Assistants endpoints through a chat interface in-console (such as command prompt, python terminal, bash-- etc.)-- intended for use with several GPT-x models via the OpenAI API. 🤖
 
 - Successfully staged and operated Multi-Factor Authentication campaigns for multiple orgs up to 50,000 users at a time, implementing Multi-factor Authentication for end users in environments where there was previously none. 🛅
 
@@ -60,17 +60,17 @@ CTF-Based Exploit development (mostly with Python and Powershell)
 
 👋 Hi, I’m @Cyber-Jacob
 
-- 👀 interested in computer networking and the global cloud infrastructure.
+- 👀 interested in infrastructure, networking, security and AI.
 
-- 🌱 currently using Powershell and Python to do useful things.
+- 🌱 I am a Powershell main with proficiency in python as well.
 
-- 💞️ looking to collaborate on helping people new to computer science better themselves in the field. Would love to connect with anyone willing to pass on their lessons in scripting, programming, offensive and defensive security principles.
+- 💞️ Let's collaorate or work together.
 
 
 
 <h1>Education:</h1>
-<h2>🔷Powershell (5 years)</h2>
-<h2>🐍Python (3 years)</h2>
+<h2>🔷Powershell (6 years)</h2>
+<h2>🐍Python (4 years)</h2>
 <h2>School: Collin College, B.A.T. Cybersecurity</h2>
 
 
