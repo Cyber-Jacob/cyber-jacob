@@ -4,7 +4,7 @@
 
 - build helpful tools and contribute to the community
 
-- learn to implement and deploy different technologies in exciting, practical, and interesting ways.
+- learn to implement and deploy different technologies in exciting, practical, and interesting ways
 
 <h1>Projects:</h1>
 
