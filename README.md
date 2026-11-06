@@ -1,11 +1,3 @@
-<h1>Goals:</h1>
-
-- become a better developer
-
-- build helpful tools and contribute to the community
-
-- learn to implement and deploy different technologies in exciting, practical, and interesting ways
-
 <h1>Projects:</h1>
 
 - Built and maintain a couple powershell module available via the Powershell Gallery known as Get-DMARCRecord and Powershell.Base64. They do exactly what what they sound like. Open-sourced here, on my github. 🕵️📖🛡️
